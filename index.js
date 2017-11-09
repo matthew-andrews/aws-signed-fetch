@@ -1,7 +1,5 @@
 'use strict';
 
-// TODO: Pull this out into a dedicated library that could be shared across all apps
-
 const aws4 = require('aws4');
 const urlParse = require('url').parse;
 const aws = require('aws-sdk');
