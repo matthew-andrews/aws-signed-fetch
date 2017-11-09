@@ -5,7 +5,8 @@
   "dependencies": {
     "aws-sdk": "^2.148.0",
     "aws4": "^1.6.0",
-    "denodeify": "^1.2.1"
+    "denodeify": "^1.2.1",
+    "node-fetch": "^1.7.3"
   },
   "author": "Matt Andrews",
   "license": "MIT"
